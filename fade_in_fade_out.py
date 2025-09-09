@@ -23,6 +23,7 @@ def EndTimer():
     return Time / 1000000
     
 
+
 # SETUP
 
 led = PWM(Pin(15), freq = 1000)
