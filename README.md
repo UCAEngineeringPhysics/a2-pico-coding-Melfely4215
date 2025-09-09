@@ -40,7 +40,7 @@ Complete [switch_mode.py](/switch_mode.py) and use a button to switch an LED's w
 ### 2 (10%) Circuit Picture
 Upload a picture of your actual circuit and display it below 👇
 
-![wiring_pic](wiring.png)
+![wiring_pic](wiring.jpg)
 
 > [!WARNING]
 > The circuit picture has to be clear about Pico's GPIO pins connection with the LED and the button.
@@ -53,7 +53,7 @@ And $n$ indicates number of duty cycle increments in the period of $T$.
 Use $D_{max}$ as the maximal value for PWM signal's duty cycle.
 Please write out the equation of the duty cycle's **increment** value, $s$, below :point_down:
 
-> Type equation with LaTex syntax here.
+$ s = frac{d_{max}}{n}
 
 > [!TIP]
 > - Writing mathematical expressions [guide](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)

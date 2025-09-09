@@ -27,7 +27,7 @@ def EndTimer():
 # SETUP
 
 led = PWM(Pin(15), freq = 1000)
-      
+
             
 print("Program Started")
 # LOOP

@@ -62,4 +62,3 @@ while True:
         print("Program Stopped")
         led.duty_u16(0)
         break
-
